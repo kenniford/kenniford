@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 Tech Stack: 
 
-![image](https://github.com/kenniford/kenniford/assets/112911565/f5bf3a2c-f5a4-4360-84af-d1c3f5b59c8c)
 ![image](https://github.com/kenniford/kenniford/assets/112911565/a3ab678f-8ecc-460a-800a-933654c18518)
+![image](https://github.com/kenniford/kenniford/assets/112911565/f5bf3a2c-f5a4-4360-84af-d1c3f5b59c8c)
 ![image](https://github.com/kenniford/kenniford/assets/112911565/e66a8697-f64c-41a2-b9eb-8f6a4c10d2eb)
 ![image](https://github.com/kenniford/kenniford/assets/112911565/35a3dfe3-05e7-4438-af40-ce0117465816)
 ![image](https://github.com/kenniford/kenniford/assets/112911565/dfd73ccd-ad7f-4e64-8c84-ab7dbfe5186b)
